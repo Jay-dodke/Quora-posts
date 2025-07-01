@@ -1,0 +1,11 @@
+h1 {
+  color: maroon;
+}
+
+.post {
+  background-color: rgb(218, 173, 28);
+}
+
+.user {
+  font-style: italic;
+}
