@@ -172,4 +172,4 @@ For professional collaboration or queries:
 
 ---
 
-> **Professional Note:** This repository has been structured with corporate standards in mind, ensuring clarity, scalability, and ease of collaboration. It is designed not just as a codebase but as a knowledge resource for long-term growth and innovation.
+> **Note:** This repository has been structured with corporate standards in mind, ensuring clarity, scalability, and ease of collaboration. It is designed not just as a codebase but as a knowledge resource for long-term growth and innovation.
